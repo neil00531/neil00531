@@ -2,5 +2,5 @@
 - 👀 I’m interested in game development 
 - 🌱 I’m currently learning C++ and everything about game engine development
 - 😁 In class my friends and I are organizing a game workshop,I'm the founder and CEO of Games Workshop
-- 📫 bnima1112@163.com.This is my email.
+- 📫 bnima1112@163.com This is my email.
 - 
